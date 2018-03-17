@@ -1,0 +1,26 @@
+{
+  "name": "compitation-api",
+  "version": "1.0.0",
+  "description": "Compitation API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Digists",
+  "license": "MIT",
+  "dependencies": {
+    "app-root-path": "^2.0.1",
+    "base64-img": "^1.0.3",
+    "cloudinary": "^1.10.0",
+    "file-system": "^2.2.2",
+    "hapi": "^16.6.2",
+    "hapi-auth-cookie": "^8.1.0",
+    "hapi-cors-headers": "^1.0.3",
+    "joi": "^13.1.2",
+    "jsonwebtoken": "^8.1.0",
+    "md5": "^2.2.1",
+    "mysql": "^2.15.0",
+    "string-format": "^0.5.0"
+  },
+  "devDependencies": {}
+}
